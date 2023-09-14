@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ee96c9847a5c6d21",
+    "type": "split",
+    "children": [
+      {
+        "id": "8247da45461769a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Module 5/5.5 Life cycle assessment methodology.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d8c84f63927a364",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcc69a3d26b0e36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9da161b3c389f96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6bcf402344abf45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sustainable supply chains",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.50000190734863
+  },
+  "right": {
+    "id": "d45fcc8198ea75a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "52e1fbabfd7e3a8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f400ac65ece33407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module 5/5.5 Life cycle assessment methodology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8247da45461769a5",
+  "lastOpenFiles": [
+    "Module 5/5.5 Life cycle assessment methodology.md",
+    "Module 5/5.1 Material Resources and Productivity.md",
+    "Module 5/5.4 The circular economy and construction waste.md",
+    "Module 5/5.2 Biomimicry in Engineering Design.md",
+    "Module 4/4.1 Components of the Urban Ecology.md",
+    "Module 3/3.3 Systems thinking in action.md",
+    "Module 3/3.2 Complexity Science and Resiliency.md",
+    "Module 3/3.4 Concepts and Causes.md",
+    "7.2 Adaptive Leadership.md",
+    "7.3 Examples of Sustainbility Leadership.md"
+  ]
+}

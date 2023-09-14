@@ -1,0 +1,6 @@
+
+My favorite lesson was lesson 2.1. I feel like this was the most interesting to me because the lesson helps me understand the obligations of an engineer and their duty to society. An understanding of the code of ethics is essential to ensure we don't get disciplined in the future by the EGBC, but more importantly, to make us aware of how as engineers, we shape society through our duties to safety, efficiency, and quite unexpectedly, our obligation to put sustainability into action.
+
+3. Most important lesson:
+
+The most important lesson, in my opinion is lesson 4.2. With the increasing global population and urbanization of the developing world, more people live in cities than ever. Therefore, we must ensure that our cities preemptively address vulnerabilities to avoid adverse consequences. Constructing a resilient city that addresses those needs ensure that its residents have a good quality of life. Achieving the good quality of life is essential for us to promote a more environmentally sustainable lifestyle, as mentioned in lesson 7 as well. 
